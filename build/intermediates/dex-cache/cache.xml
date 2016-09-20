@@ -1,0 +1,455 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/aupadhyay/AndroidStudioProjects/ClickInApp/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="787871951412550519b0222aba3c9df4cea49875">
+        <dex dex="/home/aupadhyay/AndroidStudioProjects/ClickInApp/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-24.1.1_a02afd25e7b07c689105e985943c4f4c79ac733f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/aupadhyay/.gradle/caches/modules-2/files-2.1/com.firebase/firebase-client-android/2.5.2/f19f10d6276aa0b380e2d05d2ab3272d693a5433/firebase-client-android-2.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="f19f10d6276aa0b380e2d05d2ab3272d693a5433">
+        <dex dex="/home/aupadhyay/AndroidStudioProjects/ClickInApp/app/build/intermediates/pre-dexed/debug/firebase-client-android-2.5.2_53ed0594d7ea84f1c213c118922f57d65c8ca337.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/aupadhyay/AndroidStudioProjects/ClickInApp/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database/9.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="d7572433ba21aa9e4624c819fa738b2748b82d05">
+        <dex dex="/home/aupadhyay/AndroidStudioProjects/ClickInApp/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-database-9.2.0_2e221c0e710a3479e6549e6b431c4866ee963fe8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/aupadhyay/AndroidStudioProjects/ClickInApp/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="65d1c67bd3c4f2ea295bf39247e898c52e10b8a1">
+        <dex dex="/home/aupadhyay/AndroidStudioProjects/ClickInApp/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_0e9fce8f2912004563ad90dbab33846c7b902c4a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/aupadhyay/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-annotations/2.2.2/285cb9c666f0f0f3dd8a1be04e1f457eb7b15113/jackson-annotations-2.2.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="285cb9c666f0f0f3dd8a1be04e1f457eb7b15113">
+        <dex dex="/home/aupadhyay/AndroidStudioProjects/ClickInApp/app/build/intermediates/pre-dexed/debug/jackson-annotations-2.2.2_5d484fb2096593c3dcc840d5c53ab06295af9959.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/aupadhyay/AndroidStudioProjects/ClickInApp/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database-connection/9.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="33203b081101ca6242a4cd746aafe5fc2dd98a34">
+        <dex dex="/home/aupadhyay/AndroidStudioProjects/ClickInApp/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-database-connection-9.2.0_af429b29f1748cabe8ccebc64be0296ce1855fb4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/aupadhyay/AndroidStudioProjects/ClickInApp/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="c936c1bd42f0c018c18920c7bec619ef056b24f8">
+        <dex dex="/home/aupadhyay/AndroidStudioProjects/ClickInApp/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.1.1_a5dda8964218a27e70ede142b46a11d8b4591e7d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/aupadhyay/AndroidStudioProjects/ClickInApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="593fbaec1c3e100480a2bd72457b64b7dde6ac2d">
+        <dex dex="/home/aupadhyay/AndroidStudioProjects/ClickInApp/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tasks-9.2.0_e7c5d665a3d1c8760cd4ad26ad3ab07b386add99.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/aupadhyay/AndroidStudioProjects/ClickInApp/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="4838df6db988160b107e954e02a745370df543b6">
+        <dex dex="/home/aupadhyay/AndroidStudioProjects/ClickInApp/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-analytics-9.2.0_e561b6afbbab9fc82bceabc206869a9dfe6015c8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/aupadhyay/AndroidStudioProjects/ClickInApp/app/build/intermediates/exploded-aar/com.dlazaro66.wheelindicatorview/WheelIndicatorView/1.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="26a05730127953cd368badfec2c546e5d54bd4bb">
+        <dex dex="/home/aupadhyay/AndroidStudioProjects/ClickInApp/app/build/intermediates/pre-dexed/debug/com.dlazaro66.wheelindicatorview-WheelIndicatorView-1.0.0_c6037ab94edafa0cb93f8cf8bc52c9bf50d8368a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/aupadhyay/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/24.1.1/support-annotations-24.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="3af19f153122737b372622fa6c81dd11a1c6b999">
+        <dex dex="/home/aupadhyay/AndroidStudioProjects/ClickInApp/app/build/intermediates/pre-dexed/debug/support-annotations-24.1.1_7dbec0981c54842b09badf0b92c284ce56e7d29b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/aupadhyay/AndroidStudioProjects/ClickInApp/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth/9.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="20ca7888c59f63d439f218a8810c88039f8bc7db">
+        <dex dex="/home/aupadhyay/AndroidStudioProjects/ClickInApp/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-auth-9.2.0_b91d763b019fa72321003da7c646f3240af79e03.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/aupadhyay/AndroidStudioProjects/ClickInApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.1.1/jars/libs/internal_impl-24.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="f78c2f395cb096f9dc1dc07e729922b8fcd3c4f5">
+        <dex dex="/home/aupadhyay/AndroidStudioProjects/ClickInApp/app/build/intermediates/pre-dexed/debug/internal_impl-24.1.1_a1a554b70ad2a3b05d0da9c175aae05829be5b64.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/aupadhyay/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-applinks/1.4.0/8ad21bf21784dacce5f2043afb97218cc377e835/bolts-applinks-1.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="8ad21bf21784dacce5f2043afb97218cc377e835">
+        <dex dex="/home/aupadhyay/AndroidStudioProjects/ClickInApp/app/build/intermediates/pre-dexed/debug/bolts-applinks-1.4.0_473ae20df191687bb2429ca396a954a04dc57431.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/aupadhyay/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp/2.4.0/40340c0748190fe897baf7bffbc1b282734294e5/okhttp-2.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="40340c0748190fe897baf7bffbc1b282734294e5">
+        <dex dex="/home/aupadhyay/AndroidStudioProjects/ClickInApp/app/build/intermediates/pre-dexed/debug/okhttp-2.4.0_0658fbcfeb8fb9cd8b6b2d7fa6b52587ddffe285.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/aupadhyay/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/home/aupadhyay/AndroidStudioProjects/ClickInApp/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_ac0e3dddf0e579c84f214396598799123a3ddcf4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/aupadhyay/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.4.0/5b72bf48563ea8410e650de14aa33ff69a3e8c35/okio-1.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="5b72bf48563ea8410e650de14aa33ff69a3e8c35">
+        <dex dex="/home/aupadhyay/AndroidStudioProjects/ClickInApp/app/build/intermediates/pre-dexed/debug/okio-1.4.0_171e0cde89f1e1e2ed060019fd30f373a16533a8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/aupadhyay/AndroidStudioProjects/ClickInApp/app/build/intermediates/exploded-aar/de.hdodenhof/circleimageview/2.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="a2af9c72ccaa4c5c049b500ca6ea664a4ce1f7d4">
+        <dex dex="/home/aupadhyay/AndroidStudioProjects/ClickInApp/app/build/intermediates/pre-dexed/debug/de.hdodenhof-circleimageview-2.1.0_c7333f32ef1765eea44e0d09db58444283633e26.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/aupadhyay/AndroidStudioProjects/ClickInApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="1256c10604bb098490eab070d76754ac5ceab35c">
+        <dex dex="/home/aupadhyay/AndroidStudioProjects/ClickInApp/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.1.1_67163ff83d2ce80fbaebe048ca0886e722a06c4d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/aupadhyay/AndroidStudioProjects/ClickInApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth-base/9.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="f315c6b5b99081f16a79c9aaa557328a4644fe63">
+        <dex dex="/home/aupadhyay/AndroidStudioProjects/ClickInApp/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-auth-base-9.2.0_b5ee58ebac3b783f5a0bd921b4d159168b214f7b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/aupadhyay/AndroidStudioProjects/ClickInApp/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="f62e763609f65e47dc6c498760a4accf02776788">
+        <dex dex="/home/aupadhyay/AndroidStudioProjects/ClickInApp/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.1.1_301a328b07b9d21621cb12ed29ece7ff55889858.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/aupadhyay/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.2.2/d20be6a5ddd6f8cfd36ebf6dea329873a1c41f1b/jackson-core-2.2.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="d20be6a5ddd6f8cfd36ebf6dea329873a1c41f1b">
+        <dex dex="/home/aupadhyay/AndroidStudioProjects/ClickInApp/app/build/intermediates/pre-dexed/debug/jackson-core-2.2.2_0351582018494a351d915391156412455cccdabd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/aupadhyay/AndroidStudioProjects/ClickInApp/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="dc4c18602ecffb3e69cda6cdc51ba4feac0f97d7">
+        <dex dex="/home/aupadhyay/AndroidStudioProjects/ClickInApp/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-iid-9.2.0_9c971896b98429ea94e4ed2e0e4dc3a74adc465d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/aupadhyay/AndroidStudioProjects/ClickInApp/app/build/intermediates/exploded-aar/com.google.firebase/firebase-crash/9.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="0595e77431edaba6793410f9bfa3603c063c58e7">
+        <dex dex="/home/aupadhyay/AndroidStudioProjects/ClickInApp/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-crash-9.2.0_1cc923d346648799eb691d8fc89c98f40b00530a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/aupadhyay/AndroidStudioProjects/ClickInApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="dd7676ac12aa6653718b7ea33d93ce9d6915d526">
+        <dex dex="/home/aupadhyay/AndroidStudioProjects/ClickInApp/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-9.2.0_10d4f0bb391e86469ce7c275c1601e19624e8c43.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/aupadhyay/.gradle/caches/modules-2/files-2.1/com.firebase/tubesock/0.0.12/6ec0bbd3e161a73ed672284b587fd32309a86d7a/tubesock-0.0.12.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="6ec0bbd3e161a73ed672284b587fd32309a86d7a">
+        <dex dex="/home/aupadhyay/AndroidStudioProjects/ClickInApp/app/build/intermediates/pre-dexed/debug/tubesock-0.0.12_8d2db11ed5bdc00e87e53ab28aba7b43978a0f0d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/aupadhyay/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.0/7ff0e000d1e27e356567f56c92af3b8ab912636f/picasso-2.5.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="7ff0e000d1e27e356567f56c92af3b8ab912636f">
+        <dex dex="/home/aupadhyay/AndroidStudioProjects/ClickInApp/app/build/intermediates/pre-dexed/debug/picasso-2.5.0_19057a3052b6d63787cd53bd57d62e494b771876.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/aupadhyay/.gradle/caches/modules-2/files-2.1/com.firebase/firebase-client-jvm/2.5.2/91731b8f5868a3e8a8a773f29b8d06b5c358f5bb/firebase-client-jvm-2.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="91731b8f5868a3e8a8a773f29b8d06b5c358f5bb">
+        <dex dex="/home/aupadhyay/AndroidStudioProjects/ClickInApp/app/build/intermediates/pre-dexed/debug/firebase-client-jvm-2.5.2_45480d46344281909710f99fe44a4f2bc1ae6837.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/aupadhyay/AndroidStudioProjects/ClickInApp/app/build/intermediates/exploded-aar/com.firebaseui/firebase-ui-database/0.4.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="b9d8076ffe6104c6ec66469d9301c5f7d030bd43">
+        <dex dex="/home/aupadhyay/AndroidStudioProjects/ClickInApp/app/build/intermediates/pre-dexed/debug/com.firebaseui-firebase-ui-database-0.4.2_8679ec0fcbce99da6e9f8e6d32b803d231d154f8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/aupadhyay/AndroidStudioProjects/ClickInApp/app/build/intermediates/exploded-aar/com.sothree.slidinguppanel/library/3.3.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="ef5362ef793f9212afafc3a50c5839f650115ebd">
+        <dex dex="/home/aupadhyay/AndroidStudioProjects/ClickInApp/app/build/intermediates/pre-dexed/debug/com.sothree.slidinguppanel-library-3.3.0_8ea403ba706e4336cf4a2c43de5943a3b7417f9c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/aupadhyay/AndroidStudioProjects/ClickInApp/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="363f626ad5686283250cdb6073ae1bba5cb07a87">
+        <dex dex="/home/aupadhyay/AndroidStudioProjects/ClickInApp/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-common-9.2.0_b1053dd113edbb7e983350887d6d2cbda6fd5138.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/aupadhyay/AndroidStudioProjects/ClickInApp/app/build/intermediates/exploded-aar/com.firebaseui/firebase-ui-auth/0.4.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="16d07804c1942341ebe50e83adead05653b0bb50">
+        <dex dex="/home/aupadhyay/AndroidStudioProjects/ClickInApp/app/build/intermediates/pre-dexed/debug/com.firebaseui-firebase-ui-auth-0.4.2_21b9fe659f4a72b125e97fe6a7e3b2c28dd79975.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/aupadhyay/AndroidStudioProjects/ClickInApp/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage/9.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="a378adc3106cb3560ab3dfed05f1fda26cff5b49">
+        <dex dex="/home/aupadhyay/AndroidStudioProjects/ClickInApp/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-storage-9.2.0_1af6015aab9e5ef83edee8d01b4b4ffebcbeb785.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/aupadhyay/AndroidStudioProjects/ClickInApp/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-common/9.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="44120508d7240c3e34a05957981a5c3c9b9f61aa">
+        <dex dex="/home/aupadhyay/AndroidStudioProjects/ClickInApp/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-auth-common-9.2.0_aa4c1aec48f2eed47f91e30e04e294aff32f9a33.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/aupadhyay/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-databind/2.2.2/3c8f6018eaa72d43b261181e801e6f8676c16ef6/jackson-databind-2.2.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="3c8f6018eaa72d43b261181e801e6f8676c16ef6">
+        <dex dex="/home/aupadhyay/AndroidStudioProjects/ClickInApp/app/build/intermediates/pre-dexed/debug/jackson-databind-2.2.2_e3ebb83e3a102fb07d8681465c0ef9253f4b3cd2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/aupadhyay/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/home/aupadhyay/AndroidStudioProjects/ClickInApp/app/build/intermediates/pre-dexed/debug/library-2.4.0_13459e5ecfe124d959d12aa5577dbbd7f452dc05.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/aupadhyay/AndroidStudioProjects/ClickInApp/app/build/intermediates/exploded-aar/com.android.support/design/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="e195bd694d5389acfba27ff4fdfa64c4c65b2c05">
+        <dex dex="/home/aupadhyay/AndroidStudioProjects/ClickInApp/app/build/intermediates/pre-dexed/debug/com.android.support-design-24.1.1_c5c8bdd85123d5aacdac3ab236c631626a400d25.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/aupadhyay/AndroidStudioProjects/ClickInApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="30489a97b06cc3945bdbcc1770089af9e3b3b64d">
+        <dex dex="/home/aupadhyay/AndroidStudioProjects/ClickInApp/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-9.2.0_e64df2de39f73a003dd1d49f5ffcca782b392d33.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/aupadhyay/AndroidStudioProjects/ClickInApp/app/build/intermediates/exploded-aar/com.firebaseui/firebase-ui/0.4.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="40d28b0d909a827747ecfae6ff9c7dd66db467a2">
+        <dex dex="/home/aupadhyay/AndroidStudioProjects/ClickInApp/app/build/intermediates/pre-dexed/debug/com.firebaseui-firebase-ui-0.4.2_328682ca5cdbaafea52e9bcf366ede4adcf1c3d4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/aupadhyay/AndroidStudioProjects/ClickInApp/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage-common/9.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="fa6c324604383981fb74c4cb036d4171ed0a9a02">
+        <dex dex="/home/aupadhyay/AndroidStudioProjects/ClickInApp/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-storage-common-9.2.0_2a25943cb1dab29a5eb1646c781976ffb6a3189b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/aupadhyay/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit/retrofit/1.9.0/a681c044244d9fc375198588297a39ba78028423/retrofit-1.9.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="a681c044244d9fc375198588297a39ba78028423">
+        <dex dex="/home/aupadhyay/AndroidStudioProjects/ClickInApp/app/build/intermediates/pre-dexed/debug/retrofit-1.9.0_cfb3bd99ec92a55d32e12147f1cb4d999b2f6af6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/aupadhyay/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.3.1/ecb6e1f8e4b0e84c4b886c2f14a1500caf309757/gson-2.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="/home/aupadhyay/AndroidStudioProjects/ClickInApp/app/build/intermediates/pre-dexed/debug/gson-2.3.1_610854994ce2b9e1e067fa1e942370c437e48ff9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/aupadhyay/AndroidStudioProjects/ClickInApp/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-module/9.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="e791f7f2fbf9ca5b3b576916533f844dfb384024">
+        <dex dex="/home/aupadhyay/AndroidStudioProjects/ClickInApp/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-auth-module-9.2.0_c327ebcc13e585630f8132b0ad62f2f8228b1e9c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/aupadhyay/AndroidStudioProjects/ClickInApp/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.11.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="86da97c30f50a67ddabe2cf7040713ad17153fce">
+        <dex dex="/home/aupadhyay/AndroidStudioProjects/ClickInApp/app/build/intermediates/pre-dexed/debug/com.facebook.android-facebook-android-sdk-4.11.0_f25d3ed636bcda4442bbab76cb5524ea11c201e1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/aupadhyay/AndroidStudioProjects/ClickInApp/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="4add8aa95c9f4e9a2ad64b7e2bf08e97e28955c1">
+        <dex dex="/home/aupadhyay/AndroidStudioProjects/ClickInApp/app/build/intermediates/pre-dexed/debug/com.android.support-cardview-v7-24.1.1_2c0c0b00b264d74db9b43cacc522b325b0187de5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/aupadhyay/AndroidStudioProjects/ClickInApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="6d7d803871e3203465f71a163e7af104f807b446">
+        <dex dex="/home/aupadhyay/AndroidStudioProjects/ClickInApp/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.1.1_0b5b839fa7d299055b143d671d60812642d3ca17.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/aupadhyay/AndroidStudioProjects/ClickInApp/app/build/intermediates/exploded-aar/com.android.support/customtabs/23.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="0e5a66a941515d873a34065fe44fbba6ef422a1b">
+        <dex dex="/home/aupadhyay/AndroidStudioProjects/ClickInApp/app/build/intermediates/pre-dexed/debug/com.android.support-customtabs-23.2.1_20d0e1d84f962dde20951667f5b5fc04225ae963.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/aupadhyay/AndroidStudioProjects/ClickInApp/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="5cebc1e816874e116314df31ca3666c406133516">
+        <dex dex="/home/aupadhyay/AndroidStudioProjects/ClickInApp/app/build/intermediates/pre-dexed/debug/instant-run_438c3fe2de9e4f3aaa1b618980aee80525e72d28.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/aupadhyay/AndroidStudioProjects/ClickInApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/9.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="f56a68df45e18ce77814db6553fdaa229308f49b">
+        <dex dex="/home/aupadhyay/AndroidStudioProjects/ClickInApp/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-auth-9.2.0_f718745ccc5f18a93d0339f44127f6f7aace000c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/aupadhyay/AndroidStudioProjects/ClickInApp/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/9.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="fb15fd9774b5c51dcb39d8e6fa1b6f06bcd1cd34">
+        <dex dex="/home/aupadhyay/AndroidStudioProjects/ClickInApp/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-analytics-impl-9.2.0_68fb005c403b7b2d56d93bf59f8a693a7c062209.jar" />
+    </item>
+
+</items>

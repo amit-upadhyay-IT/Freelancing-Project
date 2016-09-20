@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "891581057517",
+    "firebase_url": "https://clickinapp-ab9f7.firebaseio.com",
+    "project_id": "clickinapp-ab9f7",
+    "storage_bucket": "clickinapp-ab9f7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:891581057517:android:591654871f6a4664",
+        "android_client_info": {
+          "package_name": "com.amitupadhyay.clickin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "891581057517-q3qo5be682a4gfo1a519okm166080ei2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.amitupadhyay.clickin",
+            "certificate_hash": "DF1D07758993845C064A78E07C5C9C9770DCF9C4"
+          }
+        },
+        {
+          "client_id": "891581057517-0v66vv08njntnjcf3ab2vi3rlbt6svtm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxji3YfgqlbYLH34NeUzuXM1EnsspitQw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "891581057517-0v66vv08njntnjcf3ab2vi3rlbt6svtm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

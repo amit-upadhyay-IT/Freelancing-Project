@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:sothree="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/menu_item_share"
+        app:showAsAction="ifRoom"
+        android:title="Share"
+        android:icon="@android:drawable/ic_menu_share"/>
+
+    <item
+        android:id="@+id/call_admin"
+        android:orderInCategory="100"
+        android:title="Call"
+        android:icon="@android:drawable/ic_menu_call"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/login"
+        android:orderInCategory="100"
+        android:icon="@drawable/ic_account_circle_white_24dp"
+        android:title="Sign in"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/action_toggle"
+        android:orderInCategory="100"
+        sothree:showAsAction="never"
+        android:title="@string/action_hide"/>
+
+    <item
+        android:id="@+id/action_anchor"
+        android:orderInCategory="200"
+        sothree:showAsAction="never"
+        android:title="Enable Anchor Point"/>
+</menu>

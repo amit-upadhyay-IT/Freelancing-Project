@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#ff9900</color>
+    <color name="lightColorPrimary">#2dff9900</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#026466</color>
+    <color name="my_wonderful_blue_color">#4cb5ab</color>
+
+    <color name="light_color">#8cb811</color>
+    <color name="lightLight_color">#298cb811</color>
+    <color name="blue">#00c6d7</color>
+    <color name="lightBlue">#2600c6d7</color>
+    <color name="purple">#6e2585</color>
+    <color name="lightPurple">#276e2585</color>
+    <color name="whatsapp_color">#006c54</color>
+    <color name="lightwhatsapp_color">#1d006c54</color>
+    <color name="gray">#50667f</color>
+    <color name="lightgray">#2650667f</color>
+    <color name="orange">#ff6600</color>
+    <color name="lightorange">#23ff6600</color>
+
+    <color name="light_black">#504f4f</color>
+    <color name="black">#000000</color>
+</resources>
